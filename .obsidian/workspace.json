@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "15e369a72526187c",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c541f2963b1e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6877a9eb664007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63b0c17b580078a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "afb8fba2a24976ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e718dec68362ff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81dca7304be1f7d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c8a1100177303c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77abde64007ff806",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6fd913a5a7c138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921f3cfcf7e7cf82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78411a65dea60bda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a1fc3a35485d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd5b5cdc784f3bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сети/Модель OSI и 'TCP IP'.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9f6877a9eb664007",
+  "lastOpenFiles": [
+    "My_Obsidian",
+    "Сети/Модель OSI и 'TCP IP'.md",
+    "Сети/История и основы работы сети.md",
+    "Docker",
+    "Сети"
+  ]
+}
