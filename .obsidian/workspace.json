@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1903c96ff6f7c69",
+        "id": "d93921e8d5d07697",
         "type": "tabs",
         "children": [
           {
-            "id": "435f74ded500e315",
+            "id": "05889b8f1ce98f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "file": "Сети/История и основы работы сети.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "file": "Сети/История и основы работы сети.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сети/Модель OSI и 'TCP IP'.md",
+                "file": "Сети/История и основы работы сети.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сети/Модель OSI и 'TCP IP'.md"
+                "file": "Сети/История и основы работы сети.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "435f74ded500e315",
+  "active": "05889b8f1ce98f2b",
   "lastOpenFiles": [
-    "Сети/История и основы работы сети.md",
-    "Сети/Модель OSI и 'TCP IP'.md"
+    "Сети/Модель OSI и 'TCP IP'.md",
+    "Сети/История и основы работы сети.md"
   ]
 }
