@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.6. Сетевые протоколы. Порты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88930f920c56029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/4.7. Firewall, UWF, iptables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.7. Firewall, UWF, iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.7. Firewall, UWF, iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.6. Сетевые протоколы. Порты.md"
+                "file": "Сети/4.7. Firewall, UWF, iptables.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "67aa446469e62898",
+  "active": "873986fbce3ca3e6",
   "lastOpenFiles": [
+    "Сети/4.6. Сетевые протоколы. Порты.md",
+    "Сети/4.7. Firewall, UWF, iptables.md",
     "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
-    "4.6. Сетевые протоколы. Порты.md",
     "Pasted image 20230913103957.png",
     "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Pasted image 20230913091817.png",
