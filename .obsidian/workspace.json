@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
+                "file": "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f6832a155290a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67aa446469e62898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.6. Сетевые протоколы. Порты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сети/Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
+                "file": "4.6. Сетевые протоколы. Порты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сети/Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
+                "file": "4.6. Сетевые протоколы. Порты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сети/Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md"
+                "file": "4.6. Сетевые протоколы. Порты.md"
               }
             }
           }
@@ -159,8 +183,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2f4ccbdc10b3da4d",
+  "active": "67aa446469e62898",
   "lastOpenFiles": [
+    "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
+    "4.6. Сетевые протоколы. Порты.md",
+    "Pasted image 20230913103957.png",
+    "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Pasted image 20230913091817.png",
     "Pasted image 20230913091738.png",
     "Pasted image 20230913091602.png",
@@ -170,10 +198,7 @@
     "Pasted image 20230913091325.png",
     "Pasted image 20230913091253.png",
     "Pasted image 20230913091225.png",
-    "Pasted image 20230913091209.png",
-    "Pasted image 20230913091009.png",
     "Сети/Модель OSI и 'TCP IP'.md",
-    "Сети/Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Сети/Уровни стека TCP`IP.md",
     "Сети/История и основы работы сети.md"
   ]
