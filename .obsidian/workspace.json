@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1903c96ff6f7c69",
+        "id": "d93921e8d5d07697",
         "type": "tabs",
         "children": [
           {
-            "id": "435f74ded500e315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сети/Модель OSI и 'TCP IP'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27f1c8d1c23fcd84",
+            "id": "05889b8f1ce98f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "27f1c8d1c23fcd84",
+  "active": "05889b8f1ce98f2b",
   "lastOpenFiles": [
+    "Сети/Модель OSI и 'TCP IP'.md",
+    "Сети/Уровни стека TCP`IP.md",
     "Pasted image 20230906225330.png",
     "Pasted image 20230905230725.png",
-    "Сети/Уровни стека TCP`IP.md",
-    "Сети/Модель OSI и 'TCP IP'.md",
     "Сети/История и основы работы сети.md"
   ]
 }
