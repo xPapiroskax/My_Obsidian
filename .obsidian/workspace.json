@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сети/4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сети/4.6. Сетевые протоколы. Порты.md",
+                "file": "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сети/4.6. Сетевые протоколы. Порты.md"
+                "file": "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md"
               }
             }
           }
@@ -197,22 +197,22 @@
   },
   "active": "c88930f920c56029",
   "lastOpenFiles": [
+    "Сети/Уровни стека TCP`IP.md",
+    "Pasted image 20230905230725.png",
+    "Pasted image 20230906225330.png",
+    "Pasted image 20230913090739.png",
+    "Pasted image 20230913090805.png",
+    "Pasted image 20230913090830.png",
+    "Pasted image 20230913090852.png",
+    "Pasted image 20230913090922.png",
+    "Pasted image 20230913090942.png",
+    "Pasted image 20230913091009.png",
+    "Pasted image 20230913091209.png",
+    "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
     "Сети/4.7. Firewall, UWF, iptables.md",
     "Сети/4.6. Сетевые протоколы. Порты.md",
-    "Сети/4.5. Локальные и глобальные компьютерные сети. Устройства для обеспечения работы сети. IPv6.md",
-    "Pasted image 20230913103957.png",
     "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
-    "Pasted image 20230913091817.png",
-    "Pasted image 20230913091738.png",
-    "Pasted image 20230913091602.png",
-    "Pasted image 20230913091533.png",
-    "Pasted image 20230913091447.png",
-    "Pasted image 20230913091414.png",
-    "Pasted image 20230913091325.png",
-    "Pasted image 20230913091253.png",
-    "Pasted image 20230913091225.png",
     "Сети/Модель OSI и 'TCP IP'.md",
-    "Сети/Уровни стека TCP`IP.md",
     "Сети/История и основы работы сети.md"
   ]
 }
