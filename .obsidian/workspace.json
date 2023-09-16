@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/История и основы работы сети.md",
+                "file": "Сети/4.2.История и основы работы сети.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "419b82754bbf61b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Сети/Pasted image 20230913103957.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сети/История и основы работы сети.md",
+                "file": "Сети/Pasted image 20230913103957.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сети/История и основы работы сети.md",
+                "file": "Сети/Pasted image 20230913103957.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сети/История и основы работы сети.md"
+                "file": "Сети/Pasted image 20230913103957.png"
               }
             }
           },
@@ -156,10 +167,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d66d5c8810868ca",
+  "active": "873986fbce3ca3e6",
   "lastOpenFiles": [
+    "Без названия",
+    "Сети/4.8. Итоги модуля.md",
+    "Сети/4.2.История и основы работы сети.md",
+    "Pasted image 20230916092634.png",
     "Сети/4.3.Модель OSI и 'TCP IP'.md",
-    "Сети/История и основы работы сети.md",
     "Сети/Уровни стека TCP`IP.md",
     "Pasted image 20230906225330.png",
     "Pasted image 20230905230725.png"
