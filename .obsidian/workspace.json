@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "05f6fa9ed1f926ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md"
+              }
             }
           },
           {
@@ -148,8 +165,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bc624a5af8abe500",
+  "active": "873986fbce3ca3e6",
   "lastOpenFiles": [
+    "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
+    "Пакетные менеджеры и troubleshooting",
     "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Сети/4.2.История и основы работы сети.md",
     "Сети/Картинки/Pasted image 20230916092634.png",
