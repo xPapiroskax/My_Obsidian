@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc624a5af8abe500",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "05f6fa9ed1f926ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a796fcb1d4054e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.6. Анализ работы службы. Strace, lsof.md",
+                "file": "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.6. Анализ работы службы. Strace, lsof.md",
+                "file": "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.6. Анализ работы службы. Strace, lsof.md",
+                "file": "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.6. Анализ работы службы. Strace, lsof.md"
+                "file": "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md"
               }
             }
           },
@@ -180,7 +159,7 @@
   "active": "a796fcb1d4054e10",
   "lastOpenFiles": [
     "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
-    "6.6. Анализ работы службы. Strace, lsof.md",
+    "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Пакетные менеджеры и troubleshooting",
     "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Сети/4.2.История и основы работы сети.md",
