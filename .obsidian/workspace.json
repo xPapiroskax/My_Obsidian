@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68cae395aee1369a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.3. Шифрование разделов и папок, ключ авторизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модуль 7. Безопасность/7.2. Основы теории безопасности.md",
+                "file": "7.3. Шифрование разделов и папок, ключ авторизации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модуль 7. Безопасность/7.2. Основы теории безопасности.md",
+                "file": "7.3. Шифрование разделов и папок, ключ авторизации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модуль 7. Безопасность/7.2. Основы теории безопасности.md"
+                "file": "7.3. Шифрование разделов и папок, ключ авторизации.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d7a211b353453430",
+  "active": "68cae395aee1369a",
   "lastOpenFiles": [
-    "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Модуль 7. Безопасность/7.2. Основы теории безопасности.md",
+    "7.3. Шифрование разделов и папок, ключ авторизации.md",
+    "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Пакетные менеджеры и troubleshooting/6.7. Анализ работы сети. Tshark, tcpdump, nmap.md",
     "Модуль 7. Безопасность",
     "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
