@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8000bbff000e1a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.5. Сетевые атаки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
+                "file": "7.5. Сетевые атаки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
+                "file": "7.5. Сетевые атаки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модуль 7. Безопасность/7.4. Сетевая безопасность.md"
+                "file": "7.5. Сетевые атаки.md"
               }
             }
           },
@@ -156,11 +169,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4b075ea72248a7cb",
+  "active": "8000bbff000e1a32",
   "lastOpenFiles": [
+    "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
+    "7.5. Сетевые атаки.md",
     "Модуль 7. Безопасность/7.3. Шифрование разделов и папок, ключ авторизации.md",
     "Модуль 7. Безопасность/7.2. Основы теории безопасности.md",
-    "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
     "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Пакетные менеджеры и troubleshooting/6.7. Анализ работы сети. Tshark, tcpdump, nmap.md",
     "Модуль 7. Безопасность",
