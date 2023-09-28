@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.5. Сетевые атаки.md",
+                "file": "Модуль 7. Безопасность/7.5. Сетевые атаки.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.5. Сетевые атаки.md",
+                "file": "Модуль 7. Безопасность/7.5. Сетевые атаки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.5. Сетевые атаки.md",
+                "file": "Модуль 7. Безопасность/7.5. Сетевые атаки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.5. Сетевые атаки.md"
+                "file": "Модуль 7. Безопасность/7.5. Сетевые атаки.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8000bbff000e1a32",
+  "active": "873986fbce3ca3e6",
   "lastOpenFiles": [
     "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
-    "7.5. Сетевые атаки.md",
+    "Модуль 7. Безопасность/7.5. Сетевые атаки.md",
     "Модуль 7. Безопасность/7.3. Шифрование разделов и папок, ключ авторизации.md",
     "Модуль 7. Безопасность/7.2. Основы теории безопасности.md",
     "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
