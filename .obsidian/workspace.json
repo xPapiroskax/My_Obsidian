@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc624a5af8abe500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль 7. Безопасность/7.6. Безопасность ядра и установленных программ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f72a2f9d8ef363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль 7. Безопасность/7.7. Apparmor. Поднастройка sysctl.conf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b3162cf124fd7ce",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
