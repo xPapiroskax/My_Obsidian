@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80499260dd8afe09",
+            "id": "bc624a5af8abe500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CentOS,RAID and LVM/8.3. Установка CentOS.md",
+                "file": "CentOS,RAID and LVM/8.2. Теория рейдов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CentOS,RAID and LVM/8.3. Установка CentOS.md",
+                "file": "CentOS,RAID and LVM/8.2. Теория рейдов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CentOS,RAID and LVM/8.3. Установка CentOS.md",
+                "file": "CentOS,RAID and LVM/8.2. Теория рейдов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CentOS,RAID and LVM/8.3. Установка CentOS.md"
+                "file": "CentOS,RAID and LVM/8.2. Теория рейдов.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "80499260dd8afe09",
+  "active": "bc624a5af8abe500",
   "lastOpenFiles": [
-    "CentOS,RAID and LVM/8.2. Теория рейдов.md",
-    "CentOS,RAID and LVM/8.3. Установка CentOS.md",
-    "Модуль 7. Безопасность/7.7. Apparmor. Поднастройка sysctl.conf.md",
-    "CentOS,RAID and LVM",
     "Модуль 7. Безопасность/7.6. Безопасность ядра и установленных программ.md",
+    "Модуль 7. Безопасность/7.7. Apparmor. Поднастройка sysctl.conf.md",
+    "CentOS,RAID and LVM/8.3. Установка CentOS.md",
+    "CentOS,RAID and LVM/8.2. Теория рейдов.md",
+    "CentOS,RAID and LVM",
     "Пакетные менеджеры и troubleshooting/6.7. Анализ работы сети. Tshark, tcpdump, nmap.md",
     "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
