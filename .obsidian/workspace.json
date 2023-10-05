@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5056259e7b3934d9",
+        "id": "37a661167b41ebbc",
         "type": "tabs",
         "children": [
           {
-            "id": "bc624a5af8abe500",
+            "id": "2028717967ea491b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bc624a5af8abe500",
+  "active": "2028717967ea491b",
   "lastOpenFiles": [
+    "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
+    "CentOS,RAID and LVM/8.7. SELinux.md",
     "CentOS,RAID and LVM/8.3. Установка CentOS и LVM.md",
     "CentOS,RAID and LVM/8.2. Теория рейдов.md",
     "Модуль 7. Безопасность/7.6. Безопасность ядра и установленных программ.md",
