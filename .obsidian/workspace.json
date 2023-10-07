@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6e204aaf26e97f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md"
+              }
             }
           },
           {
@@ -148,8 +165,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2028717967ea491b",
+  "active": "6e204aaf26e97f5c",
   "lastOpenFiles": [
+    "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
+    "9. Настройка веб-серверов.md",
+    "Настройка веб-серверов",
     "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
     "CentOS,RAID and LVM/8.7. SELinux.md",
     "CentOS,RAID and LVM/8.3. Установка CentOS и LVM.md",
