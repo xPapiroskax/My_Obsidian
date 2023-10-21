@@ -11,8 +11,12 @@
             "id": "9c2450a7a0e4ddaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Устранение неполадок веб-серверов/Проблемы в работе сайта, связанные с веб-сервером.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Без названия.md"
+              }
             }
           },
           {
@@ -148,18 +154,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9c2450a7a0e4ddaa",
+  "active": "873986fbce3ca3e6",
   "lastOpenFiles": [
+    "Виды БД и базовые взаимодействия с данными на веб-серверах",
+    "Устранение неполадок веб-серверов/Проблемы в работе сайта, связанные с веб-сервером.md",
+    "Без названия.md",
+    "CentOS,RAID and LVM/8.7. SELinux.md",
+    "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
+    "CentOS,RAID and LVM/8.3. Установка CentOS и LVM.md",
+    "CentOS,RAID and LVM/8.3. Установка CentOS.md",
+    "CentOS,RAID and LVM/8.2. Теория рейдов.md",
     "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
     "9. Настройка веб-серверов.md",
     "Настройка веб-серверов",
-    "CentOS,RAID and LVM/8.5. Отличия работы в консоли CentOS и Ubuntu.md",
-    "CentOS,RAID and LVM/8.7. SELinux.md",
-    "CentOS,RAID and LVM/8.3. Установка CentOS и LVM.md",
-    "CentOS,RAID and LVM/8.2. Теория рейдов.md",
     "Модуль 7. Безопасность/7.6. Безопасность ядра и установленных программ.md",
     "Модуль 7. Безопасность/7.7. Apparmor. Поднастройка sysctl.conf.md",
-    "CentOS,RAID and LVM/8.3. Установка CentOS.md",
     "CentOS,RAID and LVM",
     "Пакетные менеджеры и troubleshooting/6.7. Анализ работы сети. Tshark, tcpdump, nmap.md",
     "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
