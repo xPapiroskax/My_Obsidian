@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Подготовка к собеседованию.md",
+                "file": "Немного о K8S.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подготовка к собеседованию.md",
+                "file": "Немного о K8S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Подготовка к собеседованию.md",
+                "file": "Немного о K8S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Подготовка к собеседованию.md"
+                "file": "Немного о K8S.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "33fdf95ebb944cbe",
   "lastOpenFiles": [
-    "Немного о K8S.md",
     "Подготовка к собеседованию.md",
+    "Немного о K8S.md",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/2. Введение. История показа на основе данных.md",
     "3. Шифрование в компьютерных сетях.md",
     "19.2. Что такое Docker и зачем он нужен.md",
