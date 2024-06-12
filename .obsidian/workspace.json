@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55fca0ad6668b0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RabbitMQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash.md",
+                "file": "RabbitMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash.md",
+                "file": "RabbitMQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash.md"
+                "file": "RabbitMQ.md"
               }
             }
           },
@@ -158,8 +171,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f8febc4f1b379229",
+  "active": "55fca0ad6668b0be",
   "lastOpenFiles": [
+    "Bash.md",
+    "RabbitMQ.md",
     "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
     "Подготовка к собеседованию.md",
     "Немного о K8S.md",
@@ -173,7 +188,6 @@
     "Модуль 7. Безопасность/7.3. Шифрование разделов и папок, ключ авторизации.md",
     "Сети/4.2.История и основы работы сети.md",
     "3. Шифрование в компьютерных сетях.md",
-    "Bash.md",
     "Расшифровки аббревиатуры.md",
     "Важные вещи.md",
     "Сети/Уровни стека TCP`IP.md",
@@ -191,7 +205,6 @@
     "Виды БД и базовые взаимодействия с данными на веб-серверах/4. Реляционные базы данных.md",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/3. Типы структур данных.md",
     "Виды БД и базовые взаимодействия с данными на веб-серверах",
-    "Устранение неполадок веб-серверов/Проблемы в работе сайта, связанные с веб-сервером.md",
     "Настройка веб-серверов",
     "CentOS,RAID and LVM",
     "Пакетные менеджеры и troubleshooting",
