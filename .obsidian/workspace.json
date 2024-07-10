@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d52a529fdbba2a67",
+        "id": "0f2735b1d7551791",
         "type": "tabs",
         "children": [
           {
-            "id": "f8febc4f1b379229",
+            "id": "02db4c49b6378c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55fca0ad6668b0be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RabbitMQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfca11dd856382b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Немного о K8S.md",
+                "file": "Ansible/Ansible.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Немного о K8S.md",
+                "file": "Ansible/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Немного о K8S.md",
+                "file": "Ansible/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Немного о K8S.md"
+                "file": "Ansible/Ansible.md"
               }
             }
           },
@@ -183,13 +158,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cfca11dd856382b0",
+  "active": "02db4c49b6378c61",
   "lastOpenFiles": [
-    "RabbitMQ.md",
+    "Немного о K8S.md",
+    "Ansible/Ansible.md",
+    "Pasted image 20231203000116.png",
+    "Ansible/Картинки/3-1.png",
+    "Ansible/Картинки/3-2.png",
+    "Ansible/Картинки/3-2-1.png",
+    "Ansible/Картинки",
+    "Ansible/Картинки/3-6-9.png",
+    "Ansible/Картинки/3-6-8.png",
+    "Ansible/Картинки/3-6-7.png",
+    "Ansible/Картинки/3-6-6.png",
+    "Ansible/Картинки/3-6-5.png",
+    "Ansible/Картинки/3-6-4.png",
+    "Ansible",
     "Bash.md",
+    "RabbitMQ.md",
     "Настройка веб-серверов/9.2 Что такое веб-сервера и какие они бывают.md",
     "Подготовка к собеседованию.md",
-    "Немного о K8S.md",
     "19.2. Что такое Docker и зачем он нужен.md",
     "Модуль 7. Безопасность/7.4. Сетевая безопасность.md",
     "Ядро Linux.md",
@@ -207,25 +195,15 @@
     "Сети/4.7. Firewall, UWF, iptables.md",
     "Сети/4.4.Настройка IP-адреса, DNS, шлюз, маска, Tracepath.md",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/2. Введение. История показа на основе данных.md",
-    "Pasted image 20231203000116.png",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/6. Графовые базы данных, колоночные базы данных, базы данных временных рядов.md",
     "SQL, реляционные базы данных",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/Картинки",
-    "Виды БД и базовые взаимодействия с данными на веб-серверах/Картинки/Pasted image 20231023145701.png",
-    "Виды БД и базовые взаимодействия с данными на веб-серверах/Картинки/Pasted image 20231023145619.png",
     "Виды БД и базовые взаимодействия с данными на веб-серверах/5. Базы данных «ключ-значение», документальная база данных.md",
-    "Виды БД и базовые взаимодействия с данными на веб-серверах/4. Реляционные базы данных.md",
-    "Виды БД и базовые взаимодействия с данными на веб-серверах/3. Типы структур данных.md",
     "Виды БД и базовые взаимодействия с данными на веб-серверах",
     "Настройка веб-серверов",
     "CentOS,RAID and LVM",
     "Пакетные менеджеры и troubleshooting",
     "Модуль 7. Безопасность",
-    "Сети/Картинки/Pasted image 20230916092634.png",
-    "Сети/Картинки/Pasted image 20230905230725.png",
-    "Сети/Картинки/Pasted image 20230913091817.png",
-    "Сети/Картинки/Pasted image 20230913103957.png",
-    "Сети/Картинки",
-    "Сети/Картинки/Pasted image 20230906225330.png"
+    "Сети/Картинки"
   ]
 }
