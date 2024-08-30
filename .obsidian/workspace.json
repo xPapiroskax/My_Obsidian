@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible/Ansible.md",
+                "file": "Подготовка к собеседованию.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ansible/Ansible.md",
+                "file": "Подготовка к собеседованию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ansible/Ansible.md",
+                "file": "Подготовка к собеседованию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ansible/Ansible.md"
+                "file": "Подготовка к собеседованию.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "02db4c49b6378c61",
   "lastOpenFiles": [
+    "Ansible/Ansible.md",
     "Подготовка к собеседованию.md",
     "Сети/Уровни стека TCP`IP.md",
     "Сети/4.3.Модель OSI и 'TCP IP'.md",
@@ -172,7 +173,6 @@
     "Расшифровки аббревиатуры.md",
     "Bash.md",
     "Ядро Linux.md",
-    "Ansible/Ansible.md",
     "Пакетные менеджеры и troubleshooting/6.7. Анализ работы сети. Tshark, tcpdump, nmap.md",
     "Пакетные менеджеры и troubleshooting/6.6. Анализ работы службы. Strace, lsof.md",
     "Пакетные менеджеры и troubleshooting/6.2. Установка программ из пакетов. Пакетный менеджер apt.md",
